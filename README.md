@@ -20,3 +20,9 @@ initialize project
 
 > dotnet new webapi -n ProjectName
 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
+
+
+
+**Dockerize the application**
+
+>sudo docker build -t ayoubkassi/platformservice .
